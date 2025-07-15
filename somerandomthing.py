@@ -3,17 +3,7 @@ class damn :
     age : None
     job : None
     hunger : int
-    class food :
-        burger : int
-        food : int
-        water : int
-        def __init__(self):
-            bruger = self.burger = 0    
-            food = self.food = 0    
-            water = self.water = 0    
-            pass
 
-        
     def __init__(self) :
         name = self. name = 'Unknow'
         age = self. age = 'Unknow'
