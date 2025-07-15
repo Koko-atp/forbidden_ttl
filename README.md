@@ -1,9 +1,8 @@
 # forbidden_ttl 
 
-
-## 🌌Progress
 | Day | Title |
 |----|----|
+<<<<<<< HEAD
 | 1 | clone it 4 edit faster |
 | 2 |  |
 | 3 |  |
@@ -13,3 +12,6 @@
 | 7 |  |
 | ------ | ------|
 
+=======
+| 1 | clone it 4 edit faster|
+>>>>>>> parent of e55be2b (put some Title)
